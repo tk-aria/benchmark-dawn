@@ -1,3 +1,12 @@
 [submodule "lib/dawn"]
 	path = lib/dawn
 	url = https://dawn.googlesource.com/dawn
+[submodule "lib/gfx"]
+	path = lib/gfx
+	url = https://github.com/gfx-rs/gfx.git
+[submodule "lib/webkit"]
+	path = lib/webkit
+	url = https://github.com/WebKit/webkit.git
+[submodule "lib/gpuweb"]
+	path = lib/gpuweb
+	url = https://github.com/gpuweb/gpuweb.git
