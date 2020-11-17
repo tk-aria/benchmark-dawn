@@ -1,1 +1,15 @@
-
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	overflow: hidden;
+  }
+  
+  body {
+	background: #fff;
+	font: 30px sans-serif;
+  }
+  
+  canvas {
+   border: double;
+  }
