@@ -1,11 +1,23 @@
-# dawn
+# webgpu-examples
 webgpu sandbox.
 
-## Requirement
+## wiki
+
+https://github.com/gpuweb/gpuweb/wiki/Implementation-Status
+
+## about
 
 - chrome canary
 
-- chrome://flags/#enable-unsafe-webgpu
+chrome://flags/#enable-unsafe-webgpu
+
+- firefox nightly
+
+dom.webgpu.enable
+
+- Safari Technology Preview	
+
+webkit	Develop -> Experimental Features -> WebGPU
 
 ## sandbox
 
