@@ -1,0 +1,3 @@
+[submodule "lib/dawn"]
+	path = lib/dawn
+	url = https://dawn.googlesource.com/dawn
